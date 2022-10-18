@@ -3,6 +3,12 @@
 #include <GL/glut.h>
 //#include <iostream>
 
+/*
+* Anggota Kelompok:
+* 1. Wichdan Bawariq P.
+* 2. I Made Prema B.
+*/
+
 static float X = 0.0;
 static float Y = 0.0;
 static float Z = -15.0;
